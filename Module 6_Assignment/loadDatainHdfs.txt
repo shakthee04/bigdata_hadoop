@@ -1,0 +1,1 @@
+hdfs dfs -put /home/M1032938/assignment6.csv /inputs/mr_inputs/
